@@ -21,14 +21,14 @@ s.author = { "Angel Morales" => "a.jesse3001@gmail.com" }
 
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
-s.homepage = "https://github.com/ctime95/AppBeverages"
+s.homepage = "https://github.com/ctime95/AppBeverage"
 
 # For example,
 # s.homepage = "https://github.com/JRG-Developer/RWPickFlavor"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/ctime95/AppBeverages.git", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/ctime95/AppBeverage.git", :tag => "#{s.version}"}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
@@ -36,6 +36,7 @@ s.source = { :git => "https://github.com/ctime95/AppBeverages.git", :tag => "#{s
 
 # 7
 s.framework = "UIKit"
+
 
 # 8
 s.source_files = "AppBeverages/**/*.{swift}"
